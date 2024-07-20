@@ -12,26 +12,22 @@ This repository provides a basic implementation of an HTTP Server with authentic
 ## Installation
 1. Clone this repository:
 
-`bash
-git clone https://github.com/SATYAM-PRATIBHAN/http-server.git`
+`git clone https://github.com/SATYAM-PRATIBHAN/http-server.git`
 
 2. Navigate to the project directory:
 
-`bash
-cd http-server`
+`cd http-server`
 
 3. Install dependencies:
 
-`bash
-npm install jsonwebtoken
-npm install express`
+`npm install jsonwebtoken`
+`npm install express`
 
 ## Usage
 
 1. Start the Server(This will start the server at Port 3000 by default)
 
-`bash
-npm authentication.js`
+`npm authentication.js`
 
 2. Sign-in Endpoint:
 
