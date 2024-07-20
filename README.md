@@ -31,15 +31,15 @@ This repository provides a basic implementation of an HTTP Server with authentic
 
 2. Sign-in Endpoint:
 
-a. Method: POST
-b. URL: /signin
-c. Body: JSON object containing username and password (e.g., {"username": "your_username", "password": "your_password"})
+1. Method: POST
+2. URL: /signin
+3. Body: JSON object containing username and password (e.g., {"username": "your_username", "password": "your_password"})
 
 3. Protected Users Endpoint:
 
-a. Method: GET
-b. URL: /users
-c. Headers: Authorization: <your token>
+1. Method: GET
+2. URL: /users
+3. Headers: Authorization: <your token>
 
 
 
