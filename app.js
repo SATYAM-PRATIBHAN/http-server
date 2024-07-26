@@ -1,7 +1,7 @@
 // Creating a simple http server
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 3000;
+const port = 3008;
 const bodyParser = require('body-parser');
 
 //middlewares
